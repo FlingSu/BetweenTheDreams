@@ -5,6 +5,7 @@
 ------
 
 ## 游戏截图
+![image](https://user-images.githubusercontent.com/82498328/183918023-26469ca7-5df2-479b-9013-fb7dec2890c8.png)
 
 <img src="E:\typora笔记\image\image-20220810211756442.png" alt="image-20220810211756442" style="zoom:67%;" />
 
