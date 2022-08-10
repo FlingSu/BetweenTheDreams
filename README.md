@@ -35,6 +35,7 @@ cocos new myProjectName -l cpp
 ```
 
 使用 Between the Dreams' Code 文件夹中内容替换新项目中的Classes和Resources内容。
+注意：在VS的工程文件夹中也需要替换成Classes中内容。
 
 ------
 
