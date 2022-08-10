@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <filePath>D:\MyCompany\MyGame6\Resources\StartSceneUI\StartSceneUI.xml.ui</filePath>
+  <Version>1.2.0.0</Version>
+  <Name>StartSceneUI</Name>
+  <ProjectDir>D:\MyCompany\MyGame6\Resources\StartSceneUI</ProjectDir>
+  <JsonFileName>StartSceneUI.json</JsonFileName>
+  <Resources>D:\MyCompany\MyGame6\Resources\StartSceneUI\Resources</Resources>
+  <JsonFolder>D:\MyCompany\MyGame6\Resources\StartSceneUI\Json</JsonFolder>
+  <JsonList>
+    <string>StartSceneUI_1.json</string>
+  </JsonList>
+  <imageFileList>
+    <string>StartSceneUI0.plist</string>
+  </imageFileList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>StartSceneUI_1.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>2500</Width>
+    <Height>2000</Height>
+  </CanvasSize>
+</UIProject>

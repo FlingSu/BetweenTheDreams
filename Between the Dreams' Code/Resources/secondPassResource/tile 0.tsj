@@ -1,0 +1,14 @@
+{ "columns":18,
+ "image":"..\/..\/..\/lab1\/Resources\/Chapter05\/MoveAndControl.png",
+ "imageheight":400,
+ "imagewidth":640,
+ "margin":2,
+ "name":"tile 0",
+ "spacing":2,
+ "tilecount":198,
+ "tiledversion":"1.8.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
