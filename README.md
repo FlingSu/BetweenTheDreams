@@ -6,13 +6,9 @@
 
 ## 游戏截图
 ![image](https://user-images.githubusercontent.com/82498328/183918023-26469ca7-5df2-479b-9013-fb7dec2890c8.png)
-
-<img src="E:\typora笔记\image\image-20220810211756442.png" alt="image-20220810211756442" style="zoom:67%;" />
-
-<img src="E:\typora笔记\image\image-20220810211829980.png" alt="image-20220810211829980" style="zoom: 80%;" />
-
-<img src="E:\typora笔记\image\image-20220810211842181.png" alt="image-20220810211842181" style="zoom: 80%;" />
-
+![image](https://user-images.githubusercontent.com/82498328/183918207-260726f8-474b-4b7e-88fe-eaf0dc9fa7d3.png)
+![image](https://user-images.githubusercontent.com/82498328/183918244-1bc574bf-d845-4b2a-b900-992bb8d85ab0.png)
+![image](https://user-images.githubusercontent.com/82498328/183918262-a1060156-368d-49ad-a026-800bf32fd2be.png)
 ------
 
 ## 演示视频
