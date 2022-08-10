@@ -50,4 +50,5 @@ cocos new myProjectName -l cpp
 ### 游戏运行步骤
 
 1、将Between the Dreams.zip解压移动至没有中文目录的地方。打开Between the Dreams文件夹，双击运行BetweentheDreams.exe即可开始游戏。
+
 2、若运行时提示XXX.dll缺失，请到网上下载对应dll，将相应dll文件拷贝至Between the Dreams文件夹即可。
